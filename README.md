@@ -1,6 +1,6 @@
 <div align="center">
 
-# ion-server-api-csharp
+# ion-server-api-net
 
 **Ultra‑low latency .NET TCP client for [IonTrader](https://iontrader.com)**  
 Real‑time market data, trade execution, balance & user management via TCP.
@@ -12,7 +12,7 @@ Real‑time market data, trade execution, balance & user management via TCP.
 
 > **Server‑to‑Server (S2S) integration** — perfect for brokers, CRMs, HFT bots, back‑office systems.
 
-[Documentation](https://iontrader.com/tcp) · [Examples](./examples) · [Report Bug](https://github.com/iontrader/server-api-csharp/issues)
+[Documentation](https://iontrader.com/tcp) · [Examples](./examples) · [Report Bug](https://github.com/iontrader/server-api-net/issues)
 
 </div>
 
@@ -185,6 +185,6 @@ See [`LICENSE`](LICENSE) for more information.
 
 **Made with passion for high‑frequency trading**
 
-[iontrader.com](https://iontrader.com) · [GitHub](https://github.com/iontrader/server-api-csharp)
+[iontrader.com](https://iontrader.com) · [GitHub](https://github.com/iontrader/server-api-net)
 
 </div>
