@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5821EF18-6BF1-4FAD-9F32-6DB2A6A15B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IonTrader.ServerApi", "src\IonTrader.ServerApi\IonTrader.ServerApi.csproj", "{A7BEEC5C-1F6A-44A6-944E-C4618AF409C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{27DB794E-FE75-4AB4-A8BF-58EE9B754F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleExample", "examples\ConsoleExample\ConsoleExample.csproj", "{AB48C74C-606C-45CE-AF2C-64D6BD237ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BEEC5C-1F6A-44A6-944E-C4618AF409C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BEEC5C-1F6A-44A6-944E-C4618AF409C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BEEC5C-1F6A-44A6-944E-C4618AF409C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BEEC5C-1F6A-44A6-944E-C4618AF409C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB48C74C-606C-45CE-AF2C-64D6BD237ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB48C74C-606C-45CE-AF2C-64D6BD237ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB48C74C-606C-45CE-AF2C-64D6BD237ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB48C74C-606C-45CE-AF2C-64D6BD237ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A7BEEC5C-1F6A-44A6-944E-C4618AF409C1} = {5821EF18-6BF1-4FAD-9F32-6DB2A6A15B1A}
+		{AB48C74C-606C-45CE-AF2C-64D6BD237ACE} = {27DB794E-FE75-4AB4-A8BF-58EE9B754F63}
+	EndGlobalSection
+EndGlobal
