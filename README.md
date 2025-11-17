@@ -35,8 +35,6 @@ Real‑time market data, trade execution, balance & user management via TCP.
 
 ## Installation
 
-## Installation
-
 Clone:
 
 ```bash
